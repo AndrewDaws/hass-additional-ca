@@ -13,11 +13,13 @@ assignees: ''
 
 **Describe your setup (please complete the following information):**
 
- - Installation type: <!-- [e.g. HAOS / Docker / ...] -->
- - HAOS version (if applicable): <!-- [e.g. 11.5 / ... ] -->
- - Home Assistant core version: <!-- [e.g. 2024.2.2 / ...] -->
- - Additional CA integration version: <!-- [e.g. 0.2.1 / ...] -->
- - Kind of certificate you use: <!-- [e.g. self-signed / issued from a managed CA / ...] -->
+ - Installation type: <!-- e.g. HAOS / Docker / ... -->
+ - HAOS version (if applicable): <!-- e.g. 17.1  -->
+ - Home Assistant core version: <!-- e.g. 2026.4.1 -->
+ - Additional CA integration version: <!-- e.g. 0.4.1 -->
+ - Kind of certificate you use: <!-- e.g. self-signed / issued from a managed CA / ... -->
+ - Integration(s) used with TLS/SSL context: <!-- e.g. Synology / CalDAV / ... -->
+ - Add-on(s) (also known as Apps) used with TLS/SSL context (if applicable): <!-- e.g. Git / Frigate / ... -->
 
 **YAML configuration extract**
 
